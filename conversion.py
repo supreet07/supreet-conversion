@@ -12,5 +12,7 @@ def hours_to_minutes(hours):
 	minutes  = hours * 60
 	return hours
 
-
+def moles2atoms(mol):
+	atoms = mols * 6.02e23
+	return atoms
 
