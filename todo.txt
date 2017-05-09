@@ -4,3 +4,4 @@ converstion tools we want
 -gallons to liters
 -hours to minutes
 -feet to inches
+-minutes to seconds
