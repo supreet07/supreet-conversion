@@ -5,4 +5,8 @@ def dollars_to_cents(dollars):
 	return cents
 
 
+mass = 3.54
+if mass > 3.0:
+	print(mass, "is large")
+
 
