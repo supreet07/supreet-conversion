@@ -4,9 +4,8 @@ def dollars_to_cents(dollars):
 	cents = dollars * 100
 	return cents
 
-
-mass = 3.54
-if mass > 3.0:
-	print(mass, "is large")
+def gallons_to_liters(gallons):
+	gallons = liters * 3
+	return gallons
 
 
